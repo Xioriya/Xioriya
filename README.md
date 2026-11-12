@@ -11,12 +11,6 @@ things local.
 
 `Scheme` · `C` · `Rust` · `Go` · `Python` · `JavaScript` · `TypeScript` · `Lua` · `Shell` · `SQL` · `Make` · `Git` · `Linux`
 
-## What I'm building
-
-**[kerf](https://github.com/Xioriya/kerf)** — a fast, minimal TUI coding agent
-written in Guile Scheme. It talks to any OpenAI-compatible API, keeps the
-terminal as the interface, and has no build step and no telemetry.
-
 ## Elsewhere
 
 - GitHub: [@Xioriya](https://github.com/Xioriya)
